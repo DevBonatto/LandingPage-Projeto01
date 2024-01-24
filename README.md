@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O MoveisMoveis é um projeto no qual da uma introdução para uma loja de vendas de móveis
 
-- [Acesse o projeto finalizado, online](https://devbonatto.github.io/MoveisMoveis/)
+- [Acesse o projeto finalizado, online](https://devbonatto.github.io/LandingPage-Projeto01)
 
 ## 🔖 Layout
 
